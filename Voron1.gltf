@@ -16,10 +16,21 @@
         {
             "mesh" : 0,
             "name" : "Curve.046",
+            "rotation" : [
+                0.7298725247383118,
+                0,
+                0,
+                0.6835832595825195
+            ],
             "scale" : [
-                18.66984748840332,
-                18.66984748840332,
-                18.66984748840332
+                212.77920532226562,
+                184.74908447265625,
+                212.77923583984375
+            ],
+            "translation" : [
+                0,
+                0.39738988876342773,
+                -0.27010345458984375
             ]
         }
     ],
@@ -59,9 +70,9 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 10208,
+            "count" : 10211,
             "max" : [
-                0.19080974161624908,
+                0.19080398976802826,
                 0,
                 -0.01770336553454399
             ],
@@ -75,13 +86,13 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 10208,
+            "count" : 10211,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 10208,
+            "count" : 10211,
             "type" : "VEC2"
         },
         {
@@ -94,28 +105,28 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 122496,
+            "byteLength" : 122532,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 122496,
-            "byteOffset" : 122496
+            "byteLength" : 122532,
+            "byteOffset" : 122532
         },
         {
             "buffer" : 0,
-            "byteLength" : 81664,
-            "byteOffset" : 244992
+            "byteLength" : 81688,
+            "byteOffset" : 245064
         },
         {
             "buffer" : 0,
             "byteLength" : 24108,
-            "byteOffset" : 326656
+            "byteOffset" : 326752
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 350764,
+            "byteLength" : 350860,
             "uri" : "Voron1.bin"
         }
     ]
