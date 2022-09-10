@@ -1,0 +1,122 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.40",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Curve.046",
+            "scale" : [
+                18.66984748840332,
+                18.66984748840332,
+                18.66984748840332
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "SVGMat.046",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.08228270709514618,
+                    0.07227185368537903,
+                    0.07227185368537903,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4000000059604645
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Curve.046",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 15122,
+            "max" : [
+                0.19078387320041656,
+                0,
+                -0.017754079774022102
+            ],
+            "min" : [
+                0.009362578392028809,
+                0,
+                -0.06526785343885422
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 15122,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 15122,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 33984,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 181464,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 181464,
+            "byteOffset" : 181464
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 120976,
+            "byteOffset" : 362928
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 67968,
+            "byteOffset" : 483904
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 551872,
+            "uri" : "Voron.bin"
+        }
+    ]
+}
